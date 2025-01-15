@@ -7,8 +7,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![GIF](https://media.giphy.com/media/your-gif-url/giphy.gif)
-
 ## 🚀 Featured Projects
 - [Project 1](https://github.com/username/project1): 간단한 설명
 - [Project 2](https://github.com/username/project2): 간단한 설명
