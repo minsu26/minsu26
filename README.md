@@ -1,9 +1,8 @@
 
 ### 🙍‍♂️ Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oasis-animal-902.notion.site/17c75628b74680918df8eac05b06acca)
-<a href="https://www.notion.so/your-notion-page" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000" alt="Notion">
-</a>
+[![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000)](https://oasis-animal-902.notion.site/17c75628b74680918df8eac05b06acca)
+
 ## 🛠 Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
