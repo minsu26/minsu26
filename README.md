@@ -1,6 +1,6 @@
 
 ### 🙍‍♂️ Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oasis-animal-902.notion.site/17c75628b74680918df8eac05b06acca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oasis-animal-902.notion.site/17c75628b7468036afc5d46292780a6d)
 [![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000)](https://oasis-animal-902.notion.site/17c75628b74680918df8eac05b06acca)
 
 ## 🛠 Technologies
