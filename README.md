@@ -1,6 +1,6 @@
 
 ### 🙍‍♂️ Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://climbing-gecko-79f.notion.site/7df43cd38a5e4c3b8eb06ed20535dfe2)<br/>
+[![Portfolio](https://oasis-animal-902.notion.site/17c75628b74680918df8eac05b06acca)<br/>
 
 ## 🛠 Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
